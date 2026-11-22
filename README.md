@@ -4,6 +4,10 @@ Ein Lagerverwaltungs-Programm in Python mit SQLite-Datenbank.
 
 Die Idee kommt aus meiner Lehre als Logistiker EFZ: Im Lager muss man jederzeit wissen, was wo liegt, wie viel davon da ist und wann man nachbestellen muss. Dieses Tool bildet genau diese Abläufe ab.
 
+## So sieht es aus
+
+![Menü und Nachbestell-Liste](screenshot-menue.png)
+
 ## Funktionen
 
 - **Artikel anlegen** mit Artikelnummer, Bezeichnung, Lagerplatz (Regal-Fach-Ebene), Bestand und Mindestbestand
